@@ -4,7 +4,7 @@ Blue and purple team security engineer based in Kaunas, Lithuania. SEC1 certifie
 
 ## What's here
 
-Selected projects from my local GitLab forge. The pinned repos below are the ones I'd want a hiring manager to look at first.
+Selected projects from my local GitLab forge:
 
 - **[NoxLab](https://github.com/FabulaNox/NoxLab)**: reference architecture for a self-hosted security homelab on one box. Segmented network, tiered Docker, self-hosted GitLab CI/CD, SIEM with local-LLM triage, tested bare-metal DR.
 - **[tripwire-honeypot](https://github.com/FabulaNox/tripwire-honeypot)**: deception-based intrusion detection using a fake sudo group as a canary. PAM hooks, Wazuh integration, MITRE ATT&CK and D3FEND mapping, Terraform deployment.
