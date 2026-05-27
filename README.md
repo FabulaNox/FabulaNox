@@ -22,5 +22,5 @@ Wazuh, Suricata, OpenSearch, nftables, OpenWrt, MikroTik, GitLab CE, Terraform, 
 ## Find me
 
 - CV: [bogdan.carmaciu.com](https://bogdan.carmaciu.com)
-- Lab notes: [bogdan.carmaciu.com/homelab](https://bogdan.carmaciu.com/homelab)
+- Lab notes: [bogdan.carmaciu.com/homelab](https://bogdan.carmaciu.com/NoxLab)
 - Docker Hub: [bcarmaciu](https://hub.docker.com/u/bcarmaciu)
